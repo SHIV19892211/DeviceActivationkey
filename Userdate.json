@@ -1,7 +1,7 @@
 [
     {
         "device_id": "360cf3efc39c3c92",
-        "key": "key12345",
+        "key":       "12345"
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
